@@ -7,7 +7,8 @@ function somaImpares() {
         }
     }
 
-    console.log("A soma é: " + soma);
+    alert(`A soma dos números ímpares que são múltiplos de 3, entre 1 e 500, é: ${soma}`);
 }
 
-somaImpares();
+
+
